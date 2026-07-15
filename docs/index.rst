@@ -3,7 +3,7 @@ How to Sign In DIRECTV Account
 
 Learn how to sign in to your DIRECTV account quickly and securely. Whether you want to manage your subscription, watch live TV, update your account information, or pay your bill, signing in is simple.
 
-.. image:: https://img.shields.io/badge/Sign in%20Now-blue?style=for-the-badge&logo=sign-in-alt&logoColor=white
+.. image:: https://img.shields.io/badge/Sign%20In-blue?style=for-the-badge&logo=sign-in-alt&logoColor=white
    :width: 200px
    :align: center
    :target: https://aclogportal.net/
